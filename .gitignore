@@ -2,3 +2,6 @@
 __pycache__/
 *.pyc
 CONFIG/credentials.json
+dist/
+build/
+*.exe
