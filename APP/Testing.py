@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # =============================================================================
-# DESKPULSE SUITE — v1.2.6-stable-fixed
+# DESKPULSE SUITE — v1.2.6-last-fixed16-04-206
 # =============================================================================
 # Implementación consolidada según la especificación de arquitectura v1.2.1.
 # Corregido: backfill limitado, escritura atómica, mouse tracking, locks, diálogos transient.
