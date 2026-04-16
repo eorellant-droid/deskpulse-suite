@@ -1,0 +1,4 @@
+Agent ID=AG-204
+Agent Name=Maria Lopez
+Project=Amazon
+Work Mode=Home Office
